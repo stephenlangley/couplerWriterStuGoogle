@@ -1,0 +1,5 @@
+D:\qlrepdev\couplerWriterStuGoogle\obj\Debug\couplerWriterStuGoogle.exe
+D:\qlrepdev\couplerWriterStuGoogle\obj\Debug\couplerWriterStuGoogle.pdb
+D:\qlrepdev\couplerWriterStuGoogle\bin\Debug\couplerWriterStuGoogle.exe
+D:\qlrepdev\couplerWriterStuGoogle\bin\Debug\couplerWriterStuGoogle.pdb
+D:\qlrepdev\couplerWriterStuGoogle\obj\Debug\ResolveAssemblyReference.cache
